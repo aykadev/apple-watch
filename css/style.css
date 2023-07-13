@@ -1,0 +1,39 @@
+.bg-dark-grey {
+    background-color:#4D4D4D
+}
+
+.bg-gold {
+    background-color:#808080
+}
+
+.bg-image {
+    background-image: url("../img/background-image.jpeg");
+    background-color: #cccccc;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-position: center;
+    background-size: cover;
+}
+
+
+.bg-image2 {
+    background-image: url("../img/background-image2.jpeg");
+    background-color: #cccccc;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-position: center;
+    background-size: cover;
+}
+
+
+.bg-shadow {
+    background-color: rgba(0, 0, 0, .5);
+}
+
+.lh-2 {
+    line-height: 35px;
+}
+
+.lh-3 {
+    line-height: 30px;
+}
